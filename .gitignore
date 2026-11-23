@@ -1,0 +1,34 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.databrickscfg
+**/credentials.json
+
+# Data and model artifacts
+*.csv
+*.parquet
+*.delta
+*.db
+*.sqlite
+*.pkl
+*.pickle
+*.joblib
+*.onnx
+mlruns/
+mlartifacts/
+artifacts/
+data/
+models/
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
