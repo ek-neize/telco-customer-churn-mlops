@@ -2,6 +2,10 @@
 
 End-to-end customer churn modeling and MLOps portfolio project built with **Databricks, Apache Spark MLlib, Delta Lake, Unity Catalog, and MLflow**.
 
+### Explore the Project
+
+[Modeling Notebooks](notebooks/01_modeling/) | [Advanced Analysis](notebooks/02_advanced_analysis/) | [MLOps Examples](notebooks/03_mlops_examples/) | [Findings Reports](reports/)
+
 > **Portfolio status:** Existing Databricks notebook source has been exported and organized for review. The code has **not** been rerun in a clean environment, and the advanced deployment examples are **not** a production release or a turnkey one-click deployment.
 
 ## Business problem
